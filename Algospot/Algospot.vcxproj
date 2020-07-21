@@ -126,6 +126,7 @@
     <ClCompile Include="BOARDCOVER.cpp" />
     <ClCompile Include="BOGGLE.cpp" />
     <ClCompile Include="CLOCKSYNC.cpp" />
+    <ClCompile Include="CLOCKSYNC_SOLUTION.cpp" />
     <ClCompile Include="PICNIC.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
